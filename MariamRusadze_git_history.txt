@@ -1,0 +1,11 @@
+commit f275b5f6caf5cac88d10a1a5c3c9a3a5c1cbe437
+Author: MariamRusadze <222572@edu.fa.ru>
+Date:   Sun Dec 29 17:32:45 2024 +0400
+
+    Realisation of the project
+
+commit e1ef2ec2c7d374885fc07d2a7efa3618fe26367a
+Author: MariamRusadze <222572@edu.fa.ru>
+Date:   Sun Dec 29 17:29:43 2024 +0400
+
+    Initial commit: creating project files
